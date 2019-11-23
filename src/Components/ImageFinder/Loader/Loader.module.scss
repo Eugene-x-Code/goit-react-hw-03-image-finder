@@ -1,0 +1,14 @@
+.sweetLoading {
+  background: rgba(0, 0, 0, 0.4);
+}
+
+.override {
+  display: block;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -50px;
+  border-color: red;
+  position: fixed;
+  z-index: 999;
+}
